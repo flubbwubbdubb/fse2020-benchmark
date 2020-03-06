@@ -1,0 +1,3 @@
+exp_single contains all 29 policy examples, separated into folders by forum post. Within each folder is a .txt file which contains the link to said forum post (where the policy was retrieved from). Please note that some sanitization was done on the policies (incorrect json syntax, invalid bucket names, etc...).
+
+exp_multiple contains a copy of the examples from exp_single which contain multiple policies from a single forum post.
